@@ -1,0 +1,43 @@
+.logo {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, -50%);
+}
+
+.mt-10 {
+    margin-top: 6rem !important;
+}
+
+.a-no-style {
+    color: black !important;
+    text-decoration: none !important;
+    text-underline: none !important;
+}
+
+.center-middle {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.navy-bg {
+    background-color: navy !important;
+}
+
+.bg-6FA8DC {
+    background-color: #6FA8DC !important;
+}
+
+.white-color {
+    color: white !important;
+}
+
+.white-bg {
+    background-color: white !important;
+}
+
+.navy-color {
+    color: navy !important;
+}
